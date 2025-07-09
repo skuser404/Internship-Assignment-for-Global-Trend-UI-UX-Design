@@ -134,7 +134,7 @@ const Footer = () => {
         <div className="container mx-auto px-6 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gt-light-text text-sm mb-4 md:mb-0">
-              © 2024 Global Trend. All rights reserved.
+              © 2025 Global Trend. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gt-light-text hover:text-gt-teal transition-colors duration-300">
